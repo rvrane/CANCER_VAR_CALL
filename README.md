@@ -14,3 +14,5 @@ This pipeline is designed for the analysis of tumor samples to identify somatic 
 10. **Prediction of Variant Effects**: Predict the functional impact of variants using REVEL.
 
 This pipeline integrates various bioinformatics tools and databases to comprehensively analyze tumor samples and identify potentially pathogenic mutations associated with cancer.
+
+12. I have added a SnakeMake file draft to ensure better operationalization of the pipeline
